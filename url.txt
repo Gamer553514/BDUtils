@@ -1,1 +1,2 @@
+https://cdn.modrinth.com/data/AANobbMI/versions/ND4ROcMQ/sodium-fabric-0.6.13%2Bmc1.21.6.jar,
 https://cdn.modrinth.com/data/YL57xq9U/versions/Ga9fyDY6/iris-fabric-1.9.0%2Bmc1.21.6.jar
